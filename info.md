@@ -10,7 +10,7 @@ My name is William Cattrell, A Computer Science student currently studying at [J
 <img src="./assets/profilePicture.JPG" alt="Profile Picture" style="border-radius: 50%"/>
 
 
-## Connect with Me
+# Connect with Me
 
 Feel free to connect with me on social media:
 
