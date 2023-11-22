@@ -5,6 +5,7 @@ Welcome to my Portfolio!
 ## Who am I?
 
 My name is William Cattrell, A Computer Science student currently studying at [John Abbott College](https://johnabbott.qc.ca/)
+<img src="https://github.com/williamCattrell/williamCattrell.github.io/blob/main/assets/profile%20picture.jpg" alt="Profile Picture" style="border-radius: 50% width=200">
 
 
 ## Connect with Me
