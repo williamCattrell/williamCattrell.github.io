@@ -17,3 +17,12 @@ Feel free to connect with me on social media:
 - or by email at [williamroycattrell@gmail.com](williamroycattrell@gmail.com)
 
 
+# CV
+
+you can download the latest version of my CV by clicking the following Text:
+
+<a href="./assets/CV.pdf" download>
+  <p>Download CV</p>
+</a>
+
+
