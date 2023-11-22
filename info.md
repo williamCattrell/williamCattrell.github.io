@@ -12,7 +12,7 @@ My name is William Cattrell, A Computer Science student currently studying at [J
 Feel free to connect with me on social media:
 
 - [Website](https://cattrell.net)
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [LinkedIn](https://linkedin.com/in/wrc123/)
 - or by email at [williamroycattrell@gmail.com](williamroycattrell@gmail.com)
 
 
