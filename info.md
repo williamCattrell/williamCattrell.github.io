@@ -21,7 +21,7 @@ Feel free to connect with me on social media:
 
 you can download the latest version of my CV by clicking the following Text:
 
-<a href="./assets/CV.pdf" download>
+<a href="./assets/WilliamCattrellCV.pdf" download>
   <p>Download CV</p>
 </a>
 
