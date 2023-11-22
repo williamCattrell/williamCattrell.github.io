@@ -1,2 +1,2 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [About me](info)
+- [Projects](projects)
