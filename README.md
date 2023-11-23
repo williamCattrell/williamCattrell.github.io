@@ -1,16 +1,17 @@
-# Welcome to my Portfolio
+<h1 style="text-align: center;">Welcome to my Portfolio</h1>
 
-While there may not be many things to show as of yet, I am proactivly adding to this repo as I work on
-many new projects for school and in my personal life
+<p style="text-align: center;">While there may not be many things to show as of yet, I am proactivly adding to this repo as I work on</p>
+<p style="text-align: center;">many new projects for school and in my personal life</p>
 
-# How to navigate
+<h1 style="text-align: center;">How to navigate</h1>
 
-To easily navigate through this portfolio, simple use the sidebar on the left hand side of the screen,
-links to major sections are available. If you would like to look for something specific, feel free to use
-the search bar locate above the sidebar options. this search function will show you results of your query 
-if found in all the pages.
+<p style="text-align: center;">To easily navigate through this portfolio, simple use the sidebar on the left hand side of the screen,</p>
+<p style="text-align: center;">links to major sections are available. If you would like to look for something specific, feel free to use</p>
+<p style="text-align: center;">the search bar locate above the sidebar options. this search function will show you results of your query </p>
+<p style="text-align: center;">if found in all the pages.</p>
 
-# Questions / Comments ?
+<h1 style="text-align: center;">Questions / Comments ?</h1>
 
-if you have any questions or comments, feel free to contact me by using one of my given links on the info page.
-I will get back to you as soon as possible.
+<p style="text-align: center;">if you have any questions or comments, feel free to contact me by using one of my given links on the info page.</p>
+<p style="text-align: center;">I will get back to you as soon as possible.</p>
+
