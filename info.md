@@ -8,7 +8,7 @@
 <h1 style="text-align: center;">Connect with Me</h1>
 <p style="text-align: center;">Feel free to connect with me on social media:</p>
 <div style="text-align: center;"> 
-  <ul>
+  <ul style="list-style: none;">
     <li> <a href="https://cattrell.net">Personal Website (WIP)</a></li>
     <li> <a href="https://linkedin.com/in/wrc123/">LinkedIn</a></li>
     <li><p style="text-align: center;">or by email at: <a href="mailto:williamroycattrell@gmail.com">williamroycattrell@gmail.com</a></p></li>
