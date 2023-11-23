@@ -9,9 +9,11 @@
 <h1 style="text-align: center;">Connect with Me</h1>
 <p style="text-align: center;">Feel free to connect with me on social media:</p>
 <div style="text-align: center;"> 
-  <a href="https://cattrell.net">Personal Website (WIP)</a>
-  <a href="https://linkedin.com/in/wrc123/">LinkedIn</a>
-  <p style="text-align: center;">or by email at: <a href="williamroycattrell@gmail.com">williamroycattrell@gmail.com</a></p>
+  <ul>
+    <li> <a href="https://cattrell.net">Personal Website (WIP)</a></li>
+    <li> <a href="https://linkedin.com/in/wrc123/">LinkedIn</a></li>
+    <li><p style="text-align: center;">or by email at: <a href="williamroycattrell@gmail.com">williamroycattrell@gmail.com</a></p></li>
+  </ul>
 </div>
 <h1 style="text-align: center;">CV</h1>
 <p style="text-align: center;">you can download the latest version of my CV by clicking the following Text:</p>
