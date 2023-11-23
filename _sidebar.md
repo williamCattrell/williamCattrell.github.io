@@ -1,3 +1,3 @@
-- [Index](README)
+- [Home](README)
 - [About me](info)
 - [Projects](projects)
