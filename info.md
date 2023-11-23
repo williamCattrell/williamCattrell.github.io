@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">About Me</h1>
-<p style="text-align: center;">Welcome to my Portfolio!</p>
+<h3 style="text-align: center;">Welcome to my Portfolio!</h3>
 
 <h2 style="text-align: center;">About Me</h2>
 <p style="text-align: center;">My name is William Cattrell, A Computer Science student currently studying at <a href="https://johnabbott.qc.ca/">John Abbott College</a></p>
