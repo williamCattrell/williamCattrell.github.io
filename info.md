@@ -3,7 +3,7 @@
 
 <h2 style="text-align: center;">About Me</h2>
 <p style="text-align: center;">My name is William Cattrell, A Computer Science student currently studying at <a href="https://johnabbott.qc.ca/">John Abbott College</a></p>
-<p style="text-align:center;"><img src="./assets/profilePicture.JPG" alt="Profile Picture" style="border-radius: 50%"/></p>
+<p style="text-align:center;"><img src="./assets/profilePicture.JPG" alt="Profile Picture" style="border-radius: 50%" height="400px" width="400px"/></p>
 
 <h1 style="text-align: center;">Connect with Me</h1>
 <p style="text-align: center;">Feel free to connect with me on social media:</p>
