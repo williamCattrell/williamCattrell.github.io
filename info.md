@@ -7,40 +7,42 @@
 
 <h3 class="titles">Technologies</h3>
 
-<div class="main-box">
-  <div class="centered">
+<div class="container">
+  <div class="box">
     <div class="row">
-       <div class="box">
-         <img class="icons" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish"/><p class="titles">Devops</p></div>
-       <div class="box">
-         <img class="icons" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/><p class="titles">Git/Github</p></div>
-       </div>
-       <div class="box">
-         <img class="icons" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-agile-web-design-and-development-flatart-icons-flat-flatarticons.png" alt="external-agile-web-design-and-development-      
-            flatart-icons-flat-flatarticons"/><p class="titles">Agile methodologies</p></div>
-       </div>
-       <div class="box">
-         <img class="icons" src="https://img.icons8.com/ios/50/jira.png" alt="jira"/><p class="titles">Jira</p></div>
-       </div>
-       <div class="box">
-         <img class="icons"src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2021/12/29113553/jfrog-logo-2022.svg/w_1024" alt="JFrog"/><p class="titles">Artifactory</p></div>
-       </div>
-       <div class="box">
-         <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco"/><p class="titles">Cisco</p></div>
-       </div>
-       <div class="box">
-         <img class="icons" src="https://img.icons8.com/stickers/100/server-windows.png" alt="server-windows"/><p class="titles">Windows/Linux server management</p></div>
-       </div>
-    </div>    
-    <h3 class="titles" >Languages</h3>    
-    <div class="row">
-      <div class="box"></div>
-      <div class="box"></div>
+      <div class="item">
+        <span class="text">Text 1</span>
+        <img class="icons" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish">
+      </div>
+      <div class="item">
+        <span class="text">Text 1</span>
+        <img class="icons" src="https://img.icons8.com/ios-filled/50/github.png" alt="github">
+      </div>
+      <div class="item">
+        <span class="text">Text 1</span>
+        <img class="icons" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-agile-web-design-and-development-flatart-icons-flat-flatarticons.png" alt="external-agile-web-design-and-development-      
+            flatart-icons-flat-flatarticons">
+      </div>
+      <div class="item">
+        <span class="text">Text 1</span>
+        <img class="icons" src="https://img.icons8.com/ios/50/jira.png" alt="jira">
+      </div>
+      <div class="item">
+        <span class="text">Text 1</span>
+        <img class="icons"src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2021/12/29113553/jfrog-logo-2022.svg/w_1024" alt="JFrog">
+      </div>
+      <div class="item">
+        <span class="text">Text 1</span>
+        <img class="icons" src="https://img.icons8.com/stickers/100/server-windows.png" alt="server-windows">
+      </div>
+      <div class="item">
+        <span class="text">Text 1</span>
+        <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
+      </div>
     </div>
+   <div class="row">    
   </div>
 </div>
-
-
 
 <h1 class="titles">Connect with Me</h1>
 <p style="text-align: center;">Feel free to connect with me on social media:</p>
