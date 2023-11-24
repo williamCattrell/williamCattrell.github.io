@@ -47,8 +47,8 @@
 
 <div class="container">
   <div class="box">
-    <div class="row">
-      <div class="item">
+     <div class="row">
+       <div class="item">
         <span class="text">C#</span>
         <img class="icons" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo">
       </div>
@@ -76,9 +76,9 @@
         <span class="text">Bash</span>
         <img class="icons" src="https://img.icons8.com/doodle/48/bash.png" alt="bash>
       </div>
-    </div>
+     </div>
      <div class="row">
-       <div class="item">
+        <div class="item">
         <span class="text">Kotlin</span>
         <img class="icons" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin">
       </div>
@@ -93,11 +93,12 @@
        <div class="item">
         <span class="text">Powershell</span>
         <img class="icons" src="https://img.icons8.com/color/48/powershell.png" alt="powershell">
-      </div>
+      </div
+     </div>
   </div>
 </div>
-</div>
-</div>
+     
+  
 
 <h1 class="titles">Connect with Me</h1>
 <p style="text-align: center;">Feel free to connect with me on social media:</p>
