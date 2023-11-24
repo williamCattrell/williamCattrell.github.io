@@ -32,7 +32,7 @@
         <img class="icons"src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2021/12/29113553/jfrog-logo-2022.svg/w_1024" alt="JFrog">
       </div>
       <div class="item">
-        <span class="text">Windwows/Linux Server Managment</span>
+        <span class="text">Windwows/Linux Servers</span>
         <img class="icons" src="https://img.icons8.com/stickers/100/server-windows.png" alt="server-windows">
       </div>
       <div class="item">
@@ -40,7 +40,61 @@
         <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
       </div>
     </div>
-   <div class="row">    
+</div>
+</div>
+
+<h3 class="titles">Languages</h3>
+
+<div class="container">
+  <div class="box">
+    <div class="row">
+      <div class="item">
+        <span class="text">C#</span>
+        <img class="icons" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish">
+      </div>
+      <div class="item">
+        <span class="text">C++</span>
+        <img class="icons" src="https://img.icons8.com/ios-filled/50/github.png" alt="github">
+      </div>
+      <div class="item">
+        <span class="text">SQL</span>
+        <img class="icons" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-agile-web-design-and-development-flatart-icons-flat-flatarticons.png" alt="external-agile-web-design-and-development-      
+            flatart-icons-flat-flatarticons">
+      </div>
+      <div class="item">
+        <span class="text">HTML</span>
+        <img class="icons" src="https://img.icons8.com/ios/50/jira.png" alt="jira">
+      </div>
+      <div class="item">
+        <span class="text">CSS</span>
+        <img class="icons"src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2021/12/29113553/jfrog-logo-2022.svg/w_1024" alt="JFrog">
+      </div>
+      <div class="item">
+        <span class="text">Javascript</span>
+        <img class="icons" src="https://img.icons8.com/stickers/100/server-windows.png" alt="server-windows">
+      </div>
+      <div class="item">
+        <span class="text">Bash</span>
+        <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
+      </div>
+    </div>
+     <div class="row">
+       <div class="item">
+        <span class="text">Kotlin</span>
+        <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
+      </div>
+       <div class="item">
+        <span class="text">Java</span>
+        <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
+      </div>
+       <div class="item">
+        <span class="text">Entity Framework</span>
+        <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
+      </div>
+       <div class="item">
+        <span class="text">Powershell</span>
+        <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
+      </div>
   </div>
 </div>
 </div>
