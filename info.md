@@ -10,13 +10,14 @@
 <div class="main-box">
   <div class="centered">
     <div class="row">
-       <div class="box"><img width="60" height="60" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish"/></div>
-       <div class="box"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/></div>
-       <div class="box"><img width="64" height="64" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-agile-web-design-and-development-flatart-icons-flat-flatarticons.png" alt="external-agile-web-design-and-development-flatart-icons-flat-            flatarticons"/></div>
-       <div class="box"><img width="50" height="50" src="https://img.icons8.com/ios/50/jira.png" alt="jira"/></div>
-       <div class="box"><img width="50" height="50" src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2021/12/29113553/jfrog-logo-2022.svg/w_1024" alt="JFrog"/></div>
-       <div class="box"><img width="50" height="50" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="JFrog"/></div>
-       <div class="box"><img width="100" height="100" src="https://img.icons8.com/stickers/100/server-windows.png" alt="server-windows"/></div>
+       <div class="box"><img class="icons" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish"/></div>
+       <div class="box"><img class="icons" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/></div>
+       <div class="box"><img class="icons" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-agile-web-design-and-development-flatart-icons-flat-flatarticons.png" alt="external-agile-web-design-and-development-      
+            flatart-icons-flat-flatarticons"/></div>
+       <div class="box"><img class="icons" src="https://img.icons8.com/ios/50/jira.png" alt="jira"/></div>
+       <div class="box"><img class="icons"src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2021/12/29113553/jfrog-logo-2022.svg/w_1024" alt="JFrog"/></div>
+       <div class="box"><img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="JFrog"/></div>
+       <div class="box"><img class="icons" src="https://img.icons8.com/stickers/100/server-windows.png" alt="server-windows"/></div>
     </div>
     
     <h3 style="text-align: center;">Languages</h3>    
