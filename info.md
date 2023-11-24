@@ -5,6 +5,8 @@
 <p style="text-align: center;">My name is William Cattrell, A Computer Science student currently studying at <a href="https://johnabbott.qc.ca/">John Abbott College</a></p>
 <p style="text-align:center;"><img src="./assets/profilePicture.JPG" alt="Profile Picture" style="border-radius: 50%" height="400px" width="400px"/></p>
 
+<h3 style="text-align: center;">Technologies</h3>
+
 <div class="main-box">
   <div class="centered">
     <div class="row">
@@ -16,6 +18,8 @@
        <div class="box"><img width="50" height="50" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="JFrog"/></div>
        <div class="box"><img width="100" height="100" src="https://img.icons8.com/stickers/100/server-windows.png" alt="server-windows"/></div>
     </div>
+    
+    <h3 style="text-align: center;">Languages</h3>    
     <div class="row">
       <div class="box"></div>
       <div class="box"></div>
