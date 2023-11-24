@@ -1,11 +1,11 @@
-<h1 style="text-align: center;">About Me</h1>
-<h3 style="text-align: center;">Welcome to my Portfolio!</h3>
+<h1 class="titles">About Me</h1>
+<h3 class="titles">Welcome to my Portfolio!</h3>
 
-<h2 style="text-align: center;">About Me</h2>
+<h2 class="titles">About Me</h2>
 <p style="text-align: center;">My name is William Cattrell, A Computer Science student currently studying at <a href="https://johnabbott.qc.ca/">John Abbott College</a></p>
 <p style="text-align:center;"><img src="./assets/profilePicture.JPG" alt="Profile Picture" style="border-radius: 50%" height="400px" width="400px"/></p>
 
-<h3 style="text-align: center;">Technologies</h3>
+<h3 class="titles">Technologies</h3>
 
 <div class="main-box">
   <div class="centered">
@@ -20,7 +20,7 @@
        <div class="box"><img class="icons" src="https://img.icons8.com/stickers/100/server-windows.png" alt="server-windows"/></div>
     </div>
     
-    <h3 style="text-align: center;">Languages</h3>    
+    <h3 class="titles" >Languages</h3>    
     <div class="row">
       <div class="box"></div>
       <div class="box"></div>
@@ -30,7 +30,7 @@
 
 
 
-<h1 style="text-align: center;">Connect with Me</h1>
+<h1 class="titles">Connect with Me</h1>
 <p style="text-align: center;">Feel free to connect with me on social media:</p>
 <div style="text-align: center;"> 
   <ul style="list-style: none;">
@@ -39,7 +39,8 @@
     <li><p style="text-align: center;">or by email at: <a href="mailto:williamroycattrell@gmail.com">williamroycattrell@gmail.com</a></p></li>
   </ul>
 </div>
-<h1 style="text-align: center;">CV</h1>
+
+<h1 class="titles">CV</h1>
 <p style="text-align: center;">you can download the latest version of my CV by clicking the following Text:</p>
 
 <div style="text-align: center;"> 
