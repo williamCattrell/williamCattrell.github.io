@@ -18,8 +18,7 @@
        <div class="box"><img class="icons"src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2021/12/29113553/jfrog-logo-2022.svg/w_1024" alt="JFrog"/></div>
        <div class="box"><img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="JFrog"/></div>
        <div class="box"><img class="icons" src="https://img.icons8.com/stickers/100/server-windows.png" alt="server-windows"/></div>
-    </div>
-    
+    </div>    
     <h3 class="titles" >Languages</h3>    
     <div class="row">
       <div class="box"></div>
