@@ -1,6 +1,6 @@
 .main-box {
   border: 1px solid black;
-  padding: 10px; /* Adjust padding as needed */
+  padding: 10px; 
 }
 
 .centered {
@@ -15,7 +15,6 @@
 
 .box {
   flex: 1;
-  aspect-ratio: 1/1; /* This ensures boxes maintain a 1:1 aspect ratio */
-  background-color: lightgray; /* Just for visibility */
+  aspect-ratio: 1/1; 
   margin: 5px;
 }
