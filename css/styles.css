@@ -1,9 +1,11 @@
-.main-box {
-  border: 5px ridge orange;
-  padding: 10px; 
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust height as needed */
 }
 
-.centered {
+.box {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -11,12 +13,13 @@
 
 .row {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px 0; 
 }
 
-.box {
-  flex: 1;
-  aspect-ratio: 1/1; 
-  margin: 5px;
+.text {
+  margin-bottom: 5px; 
 }
 
 .icons {
