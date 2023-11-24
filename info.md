@@ -11,32 +11,32 @@
   <div class="box">
     <div class="row">
       <div class="item">
-        <span class="text">Text 1</span>
+        <span class="text">Devops Pipelines</span>
         <img class="icons" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish">
       </div>
       <div class="item">
-        <span class="text">Text 1</span>
+        <span class="text">Git & Github</span>
         <img class="icons" src="https://img.icons8.com/ios-filled/50/github.png" alt="github">
       </div>
       <div class="item">
-        <span class="text">Text 1</span>
+        <span class="text">Agile Methodologies</span>
         <img class="icons" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-agile-web-design-and-development-flatart-icons-flat-flatarticons.png" alt="external-agile-web-design-and-development-      
             flatart-icons-flat-flatarticons">
       </div>
       <div class="item">
-        <span class="text">Text 1</span>
+        <span class="text">Jira</span>
         <img class="icons" src="https://img.icons8.com/ios/50/jira.png" alt="jira">
       </div>
       <div class="item">
-        <span class="text">Text 1</span>
+        <span class="text">JFrog (Artifactory)</span>
         <img class="icons"src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2021/12/29113553/jfrog-logo-2022.svg/w_1024" alt="JFrog">
       </div>
       <div class="item">
-        <span class="text">Text 1</span>
+        <span class="text">Windwows/Linux Server Managment</span>
         <img class="icons" src="https://img.icons8.com/stickers/100/server-windows.png" alt="server-windows">
       </div>
       <div class="item">
-        <span class="text">Text 1</span>
+        <span class="text">Cisco networking</span>
         <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
       </div>
     </div>
