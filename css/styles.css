@@ -1,1 +1,16 @@
+.centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
+.row {
+  display: flex;
+}
+
+.box {
+  flex: 1;
+  aspect-ratio: 1/1; /* This ensures boxes maintain a 1:1 aspect ratio */
+  border: 1px solid black;
+  margin: 5px;
+}
