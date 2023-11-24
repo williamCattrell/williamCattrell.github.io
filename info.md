@@ -50,50 +50,49 @@
     <div class="row">
       <div class="item">
         <span class="text">C#</span>
-        <img class="icons" src="https://img.icons8.com/external-flat-juicy-fish/60/external-dev-coding-and-development-flat-flat-juicy-fish.png" alt="external-dev-coding-and-development-flat-flat-juicy-fish">
+        <img class="icons" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo">
       </div>
       <div class="item">
         <span class="text">C++</span>
-        <img class="icons" src="https://img.icons8.com/ios-filled/50/github.png" alt="github">
+        <img class="icons" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo">
       </div>
       <div class="item">
         <span class="text">SQL</span>
-        <img class="icons" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-agile-web-design-and-development-flatart-icons-flat-flatarticons.png" alt="external-agile-web-design-and-development-      
-            flatart-icons-flat-flatarticons">
+        <img class="icons" src="https://img.icons8.com/external-dygo-kerismaker/48/external-SQL-networking-dygo-kerismaker.png" alt="external-SQL-networking-dygo-kerismaker">
       </div>
       <div class="item">
         <span class="text">HTML</span>
-        <img class="icons" src="https://img.icons8.com/ios/50/jira.png" alt="jira">
+        <img class="icons" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1">
       </div>
       <div class="item">
         <span class="text">CSS</span>
-        <img class="icons"src="https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/https://media.jfrog.com/wp-content/uploads/2021/12/29113553/jfrog-logo-2022.svg/w_1024" alt="JFrog">
+        <img class="icons" src="https://img.icons8.com/color/48/css3.png" alt="css3">
       </div>
       <div class="item">
         <span class="text">Javascript</span>
-        <img class="icons" src="https://img.icons8.com/stickers/100/server-windows.png" alt="server-windows">
+        <img class="icons" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1">
       </div>
       <div class="item">
         <span class="text">Bash</span>
-        <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
+        <img class="icons" src="https://img.icons8.com/doodle/48/bash.png" alt="bash>
       </div>
     </div>
      <div class="row">
        <div class="item">
         <span class="text">Kotlin</span>
-        <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
+        <img class="icons" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin">
       </div>
        <div class="item">
         <span class="text">Java</span>
-        <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
+        <img class="icons" src="https://img.icons8.com/plasticine/100/java-coffee-cup-logo.png" alt="java-coffee-cup-logo">
       </div>
        <div class="item">
-        <span class="text">Entity Framework</span>
-        <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
+        <span class="text">.NET family</span>
+        <img class="icons" src="https://img.icons8.com/color/48/net-framework.png" alt="net-framework">
       </div>
        <div class="item">
         <span class="text">Powershell</span>
-        <img class="icons" src="https://www.cdnlogo.com/logos/c/79/cisco.svg" alt="Cisco">
+        <img class="icons" src="https://img.icons8.com/color/48/powershell.png" alt="powershell">
       </div>
   </div>
 </div>
@@ -105,6 +104,7 @@
   <ul style="list-style: none;">
     <li> <a href="https://cattrell.net">Personal Website (WIP)</a></li>
     <li> <a href="https://linkedin.com/in/wrc123/">LinkedIn</a></li>
+     <li> <a href="https://github.com/williamCattrell">Github</a></li>
     <li><p style="text-align: center;">or by email at: <a href="mailto:williamroycattrell@gmail.com">williamroycattrell@gmail.com</a></p></li>
   </ul>
 </div>
