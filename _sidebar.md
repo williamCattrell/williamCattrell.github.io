@@ -1,3 +1,2 @@
-- [Home](README)
 - [About me](info)
 - [Projects](projects)
