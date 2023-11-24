@@ -1,25 +1,38 @@
+
 .container {
   display: flex;
   justify-content: center;
-  align-items: center;
-  height: 100vh; /* Adjust height as needed */
+}
+.container {
+  display: flex;
+  justify-content: center;
 }
 
 .box {
   display: flex;
   flex-direction: column;
   align-items: center;
+   border: 5px ridge orange;
+  padding: 10px; /* Adjust padding as needed */
 }
 
 .row {
   display: flex;
+  justify-content: center;
+  margin: 5px 0; /* Adjust margin as needed */
+}
+
+.item {
+  display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 10px 0; 
+  margin: 0 5px; /* Adjust margin as needed */
+  flex: 1; /* Allows items to expand horizontally */
+  text-align: center; /* Centers text within the item */
 }
 
 .text {
-  margin-bottom: 5px; 
+  margin-bottom: 5px; /* Adjust spacing between text and image */
 }
 
 .icons {
