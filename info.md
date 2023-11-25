@@ -7,7 +7,7 @@
 
 <h3 class="titles">Technologies</h3>
 
-<div class="container">
+<div id ="tech" class="container">
   <div class="box">
     <div class="row">
       <div class="item">
@@ -45,7 +45,7 @@
 
 <h3 class="titles">Languages</h3>
 
-<div class="container">
+<div id ="languages" class="container">
   <div class="box">
      <div class="row">
        <div class="item">
