@@ -5,10 +5,7 @@
 
 <h1 style="text-align: center;">How to navigate</h1>
 
-<p style="text-align: center;">To easily navigate through this portfolio, simple use the sidebar on the left hand side of the screen,</p>
-<p style="text-align: center;">links to major sections are available. If you would like to look for something specific, feel free to use</p>
-<p style="text-align: center;">the search bar locate above the sidebar options. this search function will show you results of your query </p>
-<p style="text-align: center;">if found in all the pages.</p>
+<p style="text-align: center;">To easily navigate through this portfolio, simple use the  Navbar at the top of the screen,</p>
 
 <h1 style="text-align: center;">Questions / Comments ?</h1>
 
