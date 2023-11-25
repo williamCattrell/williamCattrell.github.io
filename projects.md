@@ -23,6 +23,11 @@
 <p style="text-align: center;">this application is and android app written in Kotlin using Compose and Jetpack as extensions to the language.</p>
 <p style="text-align: center;">this project is a curent work in progress nearing completion developped and written for our application development course</p>
 <p style="text-align: center;">for the fall 2023 semester. this is a group project that I did alongside my teammates Griffin and Lauren to complete this app</p>
+<div class="image-container">
+  <img src="./assets/PokemonApp/HomeScreen.JPG" alt="Image 1">
+  <img src="./assets/PokemonApp/pokedex.JPG" alt="Image 2">
+  <img src="./assets/PokemonApp/pokemonInfo.JPG" alt="Image 3">
+</div>
 
 <br>
 <h1 class="titles">DutchTreat ASP.NET web application</h1>
