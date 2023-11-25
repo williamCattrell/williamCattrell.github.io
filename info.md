@@ -79,6 +79,7 @@
      </div>
   </div>
 </div>
+
  
 <h1 class="titles">Connect with Me</h1>
 <p style="text-align: center;">Feel free to connect with me on social media:</p>
