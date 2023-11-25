@@ -53,6 +53,7 @@ text-align: center;
 }
 
 .image-container img {
+  max-height: 600px;
   max-width: 30%; /* Adjust as needed */
   height: auto;
 }
