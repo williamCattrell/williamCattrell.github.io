@@ -1,8 +1,9 @@
 <h1 class="titles">About Me</h1>
 <h3 class="titles">Welcome to my Portfolio!</h3>
 
-<h2 class="titles">About Me</h2>
-<p style="text-align: center;">My name is William Cattrell, A Computer Science student currently studying at <a href="https://johnabbott.qc.ca/">John Abbott College</a></p>
+<h2 class="titles">who I am</h2>
+<p style="text-align: center;">My name is William Cattrell, A Computer Science student currently studying at <a href="https://johnabbott.qc.ca/">John Abbott College</a>.</p>
+<p style="text-align: center;">I enjoy learning new techniques and langugaes, always looking to expand my knowledge and broden my horizons</p>
 <p style="text-align:center;"><img src="./assets/profilePicture.JPG" alt="Profile Picture" style="border-radius: 50%" height="400px" width="400px"/></p>
 
 <h3 class="titles">Technologies</h3>
