@@ -45,3 +45,14 @@
 colour: #ebe5d5;
 text-align: center;
 }
+
+.image-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-container img {
+  max-width: 30%; /* Adjust as needed */
+  height: auto;
+}

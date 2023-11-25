@@ -9,6 +9,11 @@
 <h3 class="titles"> Github Repository can be accessed here: <a href="https://github.com/williamCattrell/Quiz-app">Quiz App repository</a></h3>
 <p style="text-align: center;">this desktop application is a quiz app designed and written in C# using WPF.</p>
 <p style="text-align: center;">this project was written for an application development course alongside my teamate Griffin.</p>
+<div class="image-container">
+  <img src="./assets/QuizApp/mainScreen.JPG" alt="Image 1">
+  <img src="./assets/QuizApp/question.JPG" alt="Image 2">
+  <img src="./assets/QuizApp/answer.JPG" alt="Image 3">
+</div>
 
 <br>
 <h1 class="titles">Kotlin Compose android application</h1>
