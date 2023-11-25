@@ -35,3 +35,8 @@
 <p style="text-align: center;">this project was a web application using ASP.NET in C# to created an interactive "shopping website" that represents a full stack flow.</p>
 <p style="text-align: center;">this application will create a local database on runtime if not present and serve the information to the user using IIS server.</p>
 <p style="text-align: center;">this application was taught to me in order to understand how an application interacts with the web and a database to provide a service for the user</p>
+<div class="image-container">
+  <img src="./assets/dutchtreatImages/main.JPG" alt="Image 1">
+  <img src="./assets/dutchtreatImages/shop.JPG" alt="Image 2">
+  <img src="./assets/dutchtreatImages/contact.JPG" alt="Image 3">
+</div>
